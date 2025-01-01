@@ -13,5 +13,4 @@ Hi, I'm Xinlei Ren（任新蕾）👋
 
    I am skilled at using techniques based on traditional signal processing and deep neural networks to address these audio problems.
 - 📫 How to reach me: 18740451049@163.com
-<!--
-- 🔗 More information about me:-->
+- 🔗 More information about me: [https://xinleiren.github.io/](https://xinleiren.github.io/)
